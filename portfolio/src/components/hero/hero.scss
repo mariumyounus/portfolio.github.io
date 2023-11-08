@@ -1,8 +1,10 @@
+@import "../../App.scss";
 .hero {
     height: calc(100vh - 100px);
     overflow: hidden;
     background: linear-gradient(180deg, #0292BD,#0c0c1d, #111132,#0292BD);
     position: relative;
+    
   
     .wrapper {
       max-width: 1366px;
@@ -17,16 +19,27 @@
         justify-content: center;
         gap: 40px;
   
-        
+        @include mobile{
+         gap:10px;
+      }
   
         h2 {
           font-size: 30px;
           color: rgb(123, 89, 157);
           letter-spacing: 10px;
+          @include mobile{
+           font-size: 10px;
+           padding:20px;
+         }
         }
   
         h1 {
           font-size: 88px;
+          @include mobile{
+            font-size: 24px;
+            padding:20px;
+            
+          }
   
          
         }
@@ -41,11 +54,17 @@
             margin-right: 20px;
             cursor: pointer;
             font-weight: 300;
+            @include mobile{
+             
+             margin-left: 10px;
+             margin-bottom: 10px;
+            }
           }
         }
   
         img {
           width: 50px;
+        
         }
       }
     }
@@ -76,5 +95,8 @@
       width: 50%;
       font-weight: bold;
       color:#ffffff09;
+      @include mobile{
+        display: none;
+      }
     }
   }
