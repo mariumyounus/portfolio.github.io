@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d40d0079.css",
+    "main.js": "/portfolio/static/js/main.ef2efa77.js",
+    "static/js/787.82aac0c9.chunk.js": "/portfolio/static/js/787.82aac0c9.chunk.js",
+    "static/media/Syeda's-collection.png": "/portfolio/static/media/Syeda's-collection.53d034032c31cc8d201d.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.7f8568ea6be606607a06.png",
+    "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.423683e475fd053bad45.png",
+    "static/media/city.png": "/portfolio/static/media/city.bc4bbbf3ffeda83bdb9f.png",
+    "static/media/shopping.png": "/portfolio/static/media/shopping.2eada82c747ed1c2cfd8.png",
+    "static/media/flexpannel.png": "/portfolio/static/media/flexpannel.c46cda2ae08dfa0ec6a3.png",
+    "static/media/bshobbysite.png": "/portfolio/static/media/bshobbysite.add51afefb514ca1bccb.png",
+    "static/media/blog1.png": "/portfolio/static/media/blog1.1c10af9acc80df46d3a1.png",
+    "static/media/real-estate.png": "/portfolio/static/media/real-estate.f9d5f6bd6ede74f5765f.png",
+    "static/media/Marium.jpg": "/portfolio/static/media/Marium.156701e86943adec6875.jpg",
+    "static/media/photo.jpeg": "/portfolio/static/media/photo.009000d5993dcf9fab8b.jpeg",
+    "static/media/address.png": "/portfolio/static/media/address.c3a72a174e46bae99f38.png",
+    "static/media/email.jpg": "/portfolio/static/media/email.53b863e378792c913708.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.d40d0079.css.map": "/portfolio/static/css/main.d40d0079.css.map",
+    "main.ef2efa77.js.map": "/portfolio/static/js/main.ef2efa77.js.map",
+    "787.82aac0c9.chunk.js.map": "/portfolio/static/js/787.82aac0c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d40d0079.css",
+    "static/js/main.ef2efa77.js"
+  ]
+}
